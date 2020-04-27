@@ -34,3 +34,5 @@ console.log("Ada Zayıf"+AdaZayif);
 console.log("Ada Normal"+AdaNormal);
 console.log("Ada Kilolu"+AdaKilolu);
 console.log("Ada Şişman"+AdaSisman);
+
+//app.js de variablelarla ilgili yeni denemeler yapıldı
